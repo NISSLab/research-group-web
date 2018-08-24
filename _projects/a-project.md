@@ -1,5 +1,5 @@
 ---
-title: A Project
+title: User Modeling through Database Logs
 
 description: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
@@ -7,14 +7,10 @@ description: |
   fames ac turpis egestas.
 
 people:
-  - storm
-  - profx
-  - grad-b
-  - scott
-  - wolverine
+  - gokhan
 
 layout: project
-last-updated: 2015-05-05
+last-updated: 2018-08-23
 ---
 
 Proin massa augue, eleifend non ultricies eget, feugiat ut nisl. Fusce at
