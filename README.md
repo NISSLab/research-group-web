@@ -49,6 +49,8 @@ Publication List
 
 The list of publications is in `bib/pubs.bib`. Typing `make` will generate `pubs.html`, which contains a pretty, sorted HTML-formatted list of papers. The public page, `publications.html`, also has a link to download the original BibTeX.
 
+bibble bib/pubs.bib bib/publications.tmpl
+
 
 News Items and Blog Posts
 -------------------------

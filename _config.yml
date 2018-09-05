@@ -1,5 +1,5 @@
 name: NISSLab
-url: http://nisslab.delawaresec.com
+url: https://www.delawaresec.com
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
