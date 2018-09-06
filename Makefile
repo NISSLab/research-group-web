@@ -7,7 +7,7 @@ BIBBLE = bibble
 
 _includes/pubs.html: bib/pubs.bib bib/publications.tmpl
 	mkdir -p _includes
-	$(BIBBLE) $+ > $@
+	$(BIBBLE) bib/pubs.bib bib/publications.tmpl > _includes/pubs.html
 
 build: _includes/pubs.html
 	jekyll build
