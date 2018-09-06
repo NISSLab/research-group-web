@@ -19,8 +19,8 @@ roles:
 #    name: Researchers
   - key: grad
     name: Graduate Students
-  - key: ugrad
-    name: Undergraduate Students
+#  - key: ugrad
+#    name: Undergraduate Students
 #  - key: ugrad-alum
 #    name: Past Undergraduate Students
   - key: collab
@@ -43,17 +43,19 @@ collections:
 navigation:
   - title: Home
     link: /
-  - title: People
-    link: /#people
+#  - title: People
+#    link: /#people
   - title: Research
     link: /research.html
-  - title: Teaching
-    link: /teaching.html
+#  - title: Teaching
+#    link: /#teaching
   - title: Publications
     link: /publications.html
+#  - title: Blog
+#    link: /blog.html
 #  - title: Grants
 #    link: /grants.html
-  - title: Seminar
-    link: /seminar.html
+#  - title: Seminar
+#    link: /seminar.html
   - title: Wiki
     link: /wiki.html

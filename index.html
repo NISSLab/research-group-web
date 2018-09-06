@@ -12,8 +12,8 @@ role-tables:
     width: 8
     image: true
 - - roles: [collab, ugrad, ugrad-alum]
-    width: 5
-    image: false
+    width: 8
+    image: true
   - roles: [alum]
     width: 7
     image: false
@@ -43,7 +43,7 @@ role-tables:
 </section>
 
 <section>
-    <h2>Research</h2>
+    <!--<h2>Research</h2>-->
     <div class="card-columns">
         {% comment %}
         Sort the projects by date, putting those without dates last
@@ -59,7 +59,7 @@ role-tables:
 </section>
 
 <div id="people">
-    <h2>People</h2>
+    <!--<h2>People</h2>-->
     {% for role-table in page.role-tables %}
         <section class="people row justify-content-between">
             {% for role-column in role-table %}
@@ -72,3 +72,4 @@ role-tables:
         </section>
     {% endfor %}
 </div>
+</p>

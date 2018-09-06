@@ -1,6 +1,6 @@
 gokhan:
     display_name: "Gokhan Kul"
-    webpage: "https://www.cse.buffalo.edu/~gokhanku/"
+    webpage: "https://delawaresec.com/gokhan/"
     github: gkhnkul
     role: faculty
     image: /img/people/gokhan.png
@@ -21,26 +21,32 @@ collab-a:
     role: collab
     webpage: "http://www.deniziren.com"
     image: /img/people/deniz.jpg
+    bio: Postdoctoral Researcher, Vrije Universiteit Amsterdam
 
 collab-b:
     display_name: "Oliver Kennedy"
     role: collab
     webpage: "https://odin.cse.buffalo.edu/people/oliver_kennedy.html"
     image: /img/people/oliver.jpg
+    bio: Assistant Professor, University at Buffalo, SUNY
 
 collab-c:
     display_name: "Shambhu Upadhyaya"
     role: collab
     webpage: "https://cse.buffalo.edu/~shambhu/"
     image: /img/people/shambhu.jpg
+    bio: Professor, University at Buffalo, SUNY
 
 collab-d:
     display_name: "Varun Chandola"
     role: collab
     webpage: "https://cse.buffalo.edu/~chandola/"
     image: /img/people/chandola.png
+    bio: Assistant Professor, University at Buffalo, SUNY
 
 collab-e:
     display_name: "Ilsun You"
     role: collab
     webpage: "http://isyou.info/users/isyou/cv.pdf"
+    image: /img/people/scott.png
+    bio: 
