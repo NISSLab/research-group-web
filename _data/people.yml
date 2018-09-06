@@ -9,10 +9,12 @@ gokhan:
 heather:
     display_name: "Heather Craddock"
     role: grad
+    image: /img/people/heather.png
     
 lakshmi:
     display_name: "Lakshmi Prasanna Konudula"
     role: grad
+    image: /img/people/lakshmi.png
 
 collab-a:
     display_name: "Deniz Iren"
