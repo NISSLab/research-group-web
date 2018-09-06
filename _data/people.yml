@@ -20,21 +20,25 @@ collab-a:
     display_name: "Deniz Iren"
     role: collab
     webpage: "http://www.deniziren.com"
+    image: /img/people/deniz.jpg
 
 collab-b:
     display_name: "Oliver Kennedy"
     role: collab
     webpage: "https://odin.cse.buffalo.edu/people/oliver_kennedy.html"
+    image: /img/people/oliver.jpg
 
 collab-c:
     display_name: "Shambhu Upadhyaya"
     role: collab
     webpage: "https://cse.buffalo.edu/~shambhu/"
+    image: /img/people/shambhu.jpg
 
 collab-d:
     display_name: "Varun Chandola"
     role: collab
     webpage: "https://cse.buffalo.edu/~chandola/"
+    image: /img/people/chandola.png
 
 collab-e:
     display_name: "Ilsun You"
